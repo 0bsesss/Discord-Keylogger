@@ -1,4 +1,4 @@
-$webhookUrl = "https://discord.com/api/webhooks/1170732886098448385/mm3Knud4Iad6lIxGainzdoN5zpqhX2UcnoWL4uZf9HzRcoTtH_J-OSraGH4PnVf9hG9f"
+$webhookUrl = "Your Webhook URL"
 $buffer = ""
 $timer = [System.Diagnostics.Stopwatch]::StartNew()
 
